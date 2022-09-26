@@ -1,0 +1,4 @@
+/*
+prototype refers to a mechanism 
+used to inherit properties from other objects
+*/
